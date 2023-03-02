@@ -1,0 +1,11 @@
+{
+    "pessoas": [
+      {
+        "id": 1,
+        "nome": "Igor Henrique Bratti Domingues",
+        "idade": 28,
+        "email": "igorbrattidev@gmail.com.br",
+        "cpf": "072.517.969-45"
+      }
+    ]
+  }
